@@ -5,12 +5,17 @@ ion-col {
 }
 
 ion-button{
-  color: black;
+  --background-color: black;
   width: 15%;
   padding: 0px;
   margin: 1px;
-
+  margin-left: 1px;
 
 }
 
+
+
+h1{
+  color: black;
+}
 
